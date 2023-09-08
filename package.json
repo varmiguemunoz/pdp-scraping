@@ -1,0 +1,32 @@
+{
+  "name": "pdp-scraping",
+  "version": "1.0.0",
+  "description": "webscraping pacific drums",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varmiguemunoz/pdp-scraping.git"
+  },
+  "keywords": [
+    "webscraping",
+    "pacificDrums",
+    "javascript",
+    "puppeteer"
+  ],
+  "author": "varmiguemunoz <varmiguemunoz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varmiguemunoz/pdp-scraping/issues"
+  },
+  "homepage": "https://github.com/varmiguemunoz/pdp-scraping#readme",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^21.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
