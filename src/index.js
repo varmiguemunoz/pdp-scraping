@@ -1,18 +1,7 @@
-const puppeteer = require('puppeteer')
+const Data2023LTD = require("./pages/Data2023LTD");
 
-const pdpScraping = async () => {
-  const browser = await puppeteer.launch({
-    headless: false,
-    slowMo: 100
-  })
+const index = async () => {
+  await Data2023LTD();
+};
 
-const page = await browser.newPage();
-page.setDefaultNavigationTimeout(1200000);
-
-await page.goto("")
-
-}
-
-pdpScraping()
-
-
+index();

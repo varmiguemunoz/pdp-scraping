@@ -4,7 +4,9 @@
   "description": "webscraping pacific drums",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "merge": "node src/merge.js",
+    "csv" : "node src/csv.js"
   },
   "repository": {
     "type": "git",
