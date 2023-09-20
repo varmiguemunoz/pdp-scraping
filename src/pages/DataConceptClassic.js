@@ -2,16 +2,15 @@ const puppeteer = require('puppeteer')
 const path = require('path')
 const fs = require('fs')
 
-const DataConceptExotic = async () => {
+const DataConceptMaple = async () => {
   const browser = await puppeteer.launch({
     headless: false
   })
 
   const page = await browser.newPage()
   page.setDefaultNavigationTimeout(1200000)
-
   await page.goto(
-    'https://www.pacificdrums.com/drums/concept-exotic-honey-mahogany-5-piece'
+    'https://www.pacificdrums.com/drums/concept-maple-classic-natural-stain-with-walnut-stain-hoops-bop-kit'
   )
 
   const data = []
@@ -50,7 +49,6 @@ const DataConceptExotic = async () => {
 
   // Down assets images:
 
-  // Extraer la información de las etiquetas con clase "masonry gutterless"
   const DownAssetImages = await page.$$eval(
     '.masonry.gutterless .column',
     elements => {
@@ -65,8 +63,6 @@ const DataConceptExotic = async () => {
   const ConceptAssetImages = []
 
   for (let i = 0; i < DownAssetImages.length; i++) {
-    console.log(`Imagen ${i + 1} - SRC: ${DownAssetImages[i].imgSrc}`)
-    console.log(`Descripción ${i + 1}: ${DownAssetImages[i].description}`)
     ConceptAssetImages.push(
       DownAssetImages[i].description,
       DownAssetImages[i].imgSrc
@@ -86,8 +82,8 @@ const DataConceptExotic = async () => {
 
   data.push({
     title,
-    mainDescription,
     shellSizes,
+    mainDescription,
     carrousel,
     ConceptImages,
     ConceptAssetImages
@@ -95,14 +91,16 @@ const DataConceptExotic = async () => {
 
   console.log(data)
 
-  const outputPath = path.join(__dirname, '../../data', 'ConceptExotic.json')
+  const outputPath = path.join(__dirname, '../../data', 'ConceptClassic.json')
 
   fs.writeFile(outputPath, JSON.stringify(data, null, 2), function (err) {
     if (err) {
       throw err
     }
-    console.log('Exportado con exito')
+    console.log('Archivo exportado con exito')
   })
+
+  await browser.close()
 }
 
-module.exports = DataConceptExotic
+module.exports = DataConceptMaple

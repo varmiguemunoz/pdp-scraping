@@ -1,69 +1,97 @@
 [
-  [
-    {
-      "title": "PDLT2214MB - LIMITED EDITION - Test",
-      "mainDescription": "This PDP Concept Series TEST ece Shell Pack features 100% European maple shells and figured mapa burl veneers to deliver an experience that’s easy on the ears and the eyes. These 7-ply shells produce the classic warm tones and resonance of maple with mid to low-end attack. ",
-      "shellSizes": "Shell sizes: 8x10, 9x12, 14x16, 18x2 TEST2"
-    }
-  ],
-  [
-    {
-      "title": "PDLT2214MB - LIMITED EDITION - MAPA BURL TO BLACK BURST LACQUER - 4-PIECE KIT",
-      "mainDescription": "This PDP Concept Series LTD Mapa Burl 4-Piece Shell Pack features 100% European maple shells and figured mapa burl veneers to deliver an experience that’s easy on the ears and the eyes. These 7-ply shells produce the classic warm tones and resonance of maple with mid to low-end attack. ",
-      "shellSizes": "Shell sizes: 8x10, 9x12, 14x16, 18x22",
-      "assetDescription": {},
-      "assetImage": [
-        "/sites/default/files/PDLT2214MB_ALT3.jpg",
-        "/sites/default/files/PDLT2214MB_ALT4.jpg",
-        "/sites/default/files/PDLT2214MB_ALT2.jpg",
-        "/sites/default/files/PDLT2214MB_ALT5.jpg",
-        "/sites/default/files/PDLT2214MB_ALT1.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset1_DW_Mag_Throw-Off_986x1287.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset2_Butt-Plate_986x630.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset3_European_Maple_Shell_and_20_Strand_Snare_Wire_1028x657.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset4_Dual-Turret_Lugs_986x465.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset5_True_Pitch_Tension_Rods_and Remo_Heads_986x822.jpg"
-      ],
-      "titleMainAsset": "Limited Edition2023 LIMITED EDITION MAPA BURL TO BLACK BURST LACQUER SNARE",
-      "assetMainImage": "/sites/default/files/PDLT5514SSMB.png",
-      "assetMainDescription": "This limited production snare has a striking black burst finish and is available in 5.5” x 14”..The antique bronze hardware features stylish dual-turret lugs and high-end DW appointments like a MAG Throw-off™, True-Pitch Tuning™ rods, and Remo heads. ",
-      "downAssetImage": [
-        "/sites/default/files/PDLT5514SSMB_Inset1_DW_Mag_Throw-Off_986x1287.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset2_Butt-Plate_986x630.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset3_European_Maple_Shell_and_20_Strand_Snare_Wire_1028x657.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset4_Dual-Turret_Lugs_986x465.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset5_True_Pitch_Tension_Rods_and Remo_Heads_986x822.jpg"
-      ]
-    }
-  ],
   {
-    "0": {
-      "title": "PDLT2214MB - LIMITED EDITION - MAPA BURL TO BLACK BURST LACQUER - 4-PIECE KIT",
-      "mainDescription": "This PDP Concept Series LTD Mapa Burl 4-Piece Shell Pack features 100% European maple shells and figured mapa burl veneers to deliver an experience that’s easy on the ears and the eyes. These 7-ply shells produce the classic warm tones and resonance of maple with mid to low-end attack. ",
-      "shellSizes": "Shell sizes: 8x10, 9x12, 14x16, 18x22",
-      "assetDescription": {},
-      "assetImage": [
-        "/sites/default/files/PDLT2214MB_ALT3.jpg",
-        "/sites/default/files/PDLT2214MB_ALT4.jpg",
-        "/sites/default/files/PDLT2214MB_ALT2.jpg",
-        "/sites/default/files/PDLT2214MB_ALT5.jpg",
-        "/sites/default/files/PDLT2214MB_ALT1.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset1_DW_Mag_Throw-Off_986x1287.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset2_Butt-Plate_986x630.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset3_European_Maple_Shell_and_20_Strand_Snare_Wire_1028x657.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset4_Dual-Turret_Lugs_986x465.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset5_True_Pitch_Tension_Rods_and Remo_Heads_986x822.jpg"
-      ],
-      "titleMainAsset": "Limited Edition2023 LIMITED EDITION MAPA BURL TO BLACK BURST LACQUER SNARE",
-      "assetMainImage": "/sites/default/files/PDLT5514SSMB.png",
-      "assetMainDescription": "This limited production snare has a striking black burst finish and is available in 5.5” x 14”..The antique bronze hardware features stylish dual-turret lugs and high-end DW appointments like a MAG Throw-off™, True-Pitch Tuning™ rods, and Remo heads. ",
-      "downAssetImage": [
-        "/sites/default/files/PDLT5514SSMB_Inset1_DW_Mag_Throw-Off_986x1287.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset2_Butt-Plate_986x630.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset3_European_Maple_Shell_and_20_Strand_Snare_Wire_1028x657.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset4_Dual-Turret_Lugs_986x465.jpg",
-        "/sites/default/files/PDLT5514SSMB_Inset5_True_Pitch_Tension_Rods_and Remo_Heads_986x822.jpg"
-      ]
-    }
+    "title": "PDCC1803NW - Concept™ Maple Classic - Natural Stain with Walnut Stain Hoops - Bop Kit",
+    "shellSizes": "The 3-piece Bop Kit comes in traditional, Bebop sizes: an 8”x12” mounted tom, a 14”x14” floor tom, and a 14”x18” bass drum. Made from select European maple shells and fitted with retro-style maple counter hoops, Concept Classic bridges the gap between modern build quality and vintage aesthetics. Available in a variety of woodsy yet durable satin lacquer finish options, it’s the perfect kit for studio work or live shows.",
+    "mainDescription": "The 3-piece Bop Kit comes in traditional, Bebop sizes: an 8”x12” mounted tom, a 14”x14” floor tom, and a 14”x18” bass drum. Made from select European maple shells and fitted with retro-style maple counter hoops, Concept Classic bridges the gap between modern build quality and vintage aesthetics. Available in a variety of woodsy yet durable satin lacquer finish options, it’s the perfect kit for studio work or live shows.",
+    "carrousel": [
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCC1803NW_Right-Facing.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCC1803NW_Player-Perspective.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCC1803NW_Left-Facing.png"
+    ],
+    "ConceptImages": [
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC0812TTNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC6514SSNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1414FTNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1618FTNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1418KKNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1420KKNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1622KKNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1424KKNW.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCC1426KKNW.png"
+    ],
+    "ConceptAssetImages": [
+      "Resonant Floor Tom Legs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/Bop-NW-Inset1.png",
+      "Vintage-Style Claw Hooks & True Pitch Tension Rods",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/Bop-NW-Inset2.png",
+      "Bass Drum Lifter",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/Bop-NW-Inset3.png",
+      "Dual Turret Lugs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/Bop-NW-Inset4.png",
+      "Telescoping Bass Drum Spurs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/Bop-NW-Inset5.png"
+    ]
+  },
+  {
+    "title": "PDCMX2215HM - Concept™ Exotic - Honey Mahogany",
+    "mainDescription": "Concept™ Maple Exotics drums are constructed with maple shells, wrapped with an inner and outer veneer of rich honey mahogany, and finished with a glossy natural lacquer so, you can count on these drums to turn heads wherever they go.",
+    "shellSizes": "Shell sizes: 18x22 (No BDM), 8x10, 9x12, 14x16F, 5.5x14, w/ two 10.5mm L-Arms",
+    "carrousel": [
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCMX2215HM_RightFacing.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCMX2215HM_PlayerPespective.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCMX2215HM_LeftFacing.png"
+    ],
+    "ConceptImages": [
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCMX0708STHM.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCMX1214TTHM.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCMX1618TTHM.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCMX5514SSHM.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCMX1822KKHM.png"
+    ],
+    "ConceptAssetImages": [
+      "Resonant Floor Tom Legs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/HM-Inset1.png",
+      "Die-Cast Claw Hooks & True-Pitch Tension Rods",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/HM-Inset2.png",
+      "Suspension Tom Mounts",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/HM-Inset3.png",
+      "Maple/Mahogany Hybrid Shell",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/HM-Inset4.png",
+      "Telescoping Bass Drum Spurs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/HM-Inset5.png"
+    ]
+  },
+  {
+    "title": "PDCM2215TI - Concept™ Maple - Twisted Ivory FinishPly™ - 5-Piece Kit",
+    "shellSizes": "PDP proudly brings you Concept Series Drums. Designed by Drum Workshop in California, Concept Series Drums have a fresh, new look, and a sound that has drummers talking. Concept Maple offers a myriad of today’s most popular configurations. Then, add toms or bass drums to build a custom kit to suit your musical style.",
+    "mainDescription": "PDP proudly brings you Concept Series Drums. Designed by Drum Workshop in California, Concept Series Drums have a fresh, new look, and a sound that has drummers talking. Concept Maple offers a myriad of today’s most popular configurations. Then, add toms or bass drums to build a custom kit to suit your musical style.",
+    "carrousel": [
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCM2215TI_RightFacing_0.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCM2215TI_PlayerPerspective_0.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/main/PDCM2215TI_LeftFacing_0.png"
+    ],
+    "ConceptImages": [
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM0708STTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM0810STTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM5514SSTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1214TTTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1416TTTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1618TTTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1620KKTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1822KKTI.png",
+      "https://www.pacificdrums.com/sites/default/files/drums/addons/PDCM1424KKTI.png"
+    ],
+    "ConceptAssetImages": [
+      "Resonant Floor Tom Legs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/TI-Inset1.png",
+      "Die-Cast Claw Hooks & True-Pitch Tension Rods",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/TI-Inset2.png",
+      "Suspension Tom Mounts",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/TI-Inset3.png",
+      "Graduated Counterhoops & Retro-Inspired Dual-Turret Lugs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/TI-Inset4.png",
+      "Telescoping Bass Drum Spurs",
+      "https://www.pacificdrums.com/sites/default/files/drums/insets/TI-Inset5.png"
+    ]
   }
 ]
